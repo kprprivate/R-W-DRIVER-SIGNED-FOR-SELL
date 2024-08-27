@@ -5,7 +5,7 @@ I am pleased to offer two powerful kernel driver versions for sale, each packed 
 ### Version 1: Mouse Movement + Stream Mode
 - **Mouse Movement**: To move your mouse. 100% Undetected all games. ( aimbot ) 
 - **Stream Mode**: Hide HWND from screen capture.
-- **Secret Feature (NEW)**: Allows you do make any app turns into others
+- **Secret Feature (NEW)**: Allows you do make any app turns into others and remove them from Task Manager when there're running
 
 ### Version 2: Ultimate Feature Set
 - **Read / Write**: Available in both physical and virtual methods.
@@ -14,7 +14,7 @@ I am pleased to offer two powerful kernel driver versions for sale, each packed 
 - **Get Kernel Module Base**: Retrieve kernel module base addresses.
 - **Stream Mode**: Hide HWND from screen capture.
 - **Base Address**: Access and utilize base addresses.
-- **Secret Feature (NEW)**: Allows you do make any app turns into others
+- **Secret Feature (NEW)**: Allows you do make any app turns into others and remove them from Task Manager when there're running
 
 For pricing and more details, contact me on Discord:
 - Join: [discord.gg/anonymous](https://discord.gg/anonymous)
