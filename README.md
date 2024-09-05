@@ -18,6 +18,6 @@ I am pleased to offer two powerful kernel driver versions for sale, each packed 
 - **Secret Feature (NEW)**: Allows you do make any app turns into others and remove them from Task Manager when there're running
 - Price: 600$ p/month
 
-For pricing and more details, contact me on Discord:
+For more details & show in-live working, contact me on Discord:
 - Join: [discord.gg/anonymous](https://discord.gg/anonymous)
 - Direct Message: `anonymousepvp`
